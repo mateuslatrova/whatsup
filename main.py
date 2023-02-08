@@ -1,4 +1,4 @@
-from whatsup import Whatsup
+from src.whatsup import Whatsup
 import sys
 
 if __name__ == "__main__":

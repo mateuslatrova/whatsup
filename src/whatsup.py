@@ -7,7 +7,7 @@ import yaml
 import pandas as pd
 from pynput.keyboard import Controller
 
-from constants import BIBLE_BASE_URL, VERSE
+from src.constants import BIBLE_BASE_URL, VERSE
 
 
 class Whatsup:
